@@ -263,17 +263,17 @@ figure img {
   width: 80%;
 }
 
-.portfolio-page h3 {
+h3 .portfolio-header {
   padding-top: 30px;
   margin: 20px 0;
 }
 
-.portfolio-page h4 {
+h4.portfolio-header {
   margin: 20px 0;
   font-weight: bold;
 }
 
-.portfolio-page p {
+p.portfolio-header {
   margin: 10px 0;
 }
 
@@ -349,7 +349,7 @@ img {
   padding-bottom: 30px;
 }
 
-.highlight {
+p.highlight {
   padding-top: 30px;
   font-weight: bolder;
 }
@@ -588,8 +588,8 @@ footer .social-icons li {
     width: 45%;
   }
 
-  .language-wrapper p,
-  .tool-wrapper p {
+  p.language-wrapper,
+  p.tool-wrapper {
     padding: 15px 0;
   }
 
@@ -748,7 +748,7 @@ footer .social-icons li {
        padding: 80px 0;
      }
 
-     footer .social-icons {
+     footer.social-icons {
        width: 60%;
        justify-content: space-around;
        padding: 10px 150px;
