@@ -188,6 +188,8 @@ h1 {
   border-bottom: 4px dotted grey;
   font-weight: bold;
   padding-bottom: 25px;
+  letter-spacing: 3px;
+  word-spacing: 5px;
 }
 
 h2 {
