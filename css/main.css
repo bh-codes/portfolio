@@ -650,6 +650,7 @@ footer .social-icons li {
   footer .social-icons {
     width: 12.5em;
     padding: 10px 50px;
+    margin: auto;
     justify-content: space-between;
   }
 
